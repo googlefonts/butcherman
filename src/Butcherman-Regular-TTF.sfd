@@ -54,7 +54,6 @@ OS2StrikeYPos: 754
 OS2Vendor: 'typm'
 OS2CodePages: 20000081.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0"  {"'liga'"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -263,7 +262,6 @@ SplineSet
  1655 354 1655 354 1655 469 c 1,178,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'liga'" o o
 EndChar
 
 StartChar: NULL
@@ -21309,7 +21307,6 @@ SplineSet
  1615 385.1 1615 385.1 1615 429 c 1,119,120
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'liga'" n n
 EndChar
 
 StartChar: question
